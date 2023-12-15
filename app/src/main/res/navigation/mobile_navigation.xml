@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_home"-->
+<!--        android:name="com.bangkit.capstone_mockup.home.HomeFragment"-->
+<!--        android:label="@string/title_home"-->
+<!--        tools:layout="@layout/fragment_home" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_news"-->
+<!--        android:name="com.aplikasikaryaanakbangkit.sentiment.news.NewsFragment"-->
+<!--        android:label="@string/title_news"-->
+<!--        tools:layout="@layout/fragment_news" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_sentiment_analysis"-->
+<!--        android:name="com.aplikasikaryaanakbangkit.sentiment.sentiment.SentimentAnalysisFragment"-->
+<!--        android:label="@string/title_sentiment_analysis"-->
+<!--        tools:layout="@layout/fragment_sentiment_analysis" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_statistic_vaccination"-->
+<!--        android:name="com.aplikasikaryaanakbangkit.sentiment.vaccination.VaccinationFragment"-->
+<!--        android:label="@string/title_vaccination"-->
+<!--        tools:layout="@layout/fragment_vaccination" />-->
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_team"-->
+<!--        android:name="com.aplikasikaryaanakbangkit.sentiment.team.TeamFragment"-->
+<!--        android:label="@string/title_team"-->
+<!--        tools:layout="@layout/fragment_team" />-->
+
+</navigation>
